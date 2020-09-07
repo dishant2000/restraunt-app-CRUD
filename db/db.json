@@ -1,0 +1,46 @@
+{
+  "restraunt": [
+    {
+      "id": 1,
+      "name": "startup restraunt",
+      "address": "rajasthan",
+      "rating": 4.5,
+      "contacts": "1800-12345678"
+    },
+    {
+      "id": 2,
+      "name": "cowrestro",
+      "address": "rajasthan",
+      "rating": 4.2,
+      "contacts": "1800-145345678"
+    },
+    {
+      "id": 3,
+      "name": "gaumutras",
+      "address": "up",
+      "rating": 4.3,
+      "contacts": "1800-123453458"
+    },
+    {
+      "id": 4,
+      "name": "vayuputras restro",
+      "address": "nilgiri",
+      "rating": 4.1,
+      "contacts": "1800-1232344238"
+    },
+    {
+      "id": 5,
+      "name": "dicky",
+      "address": "mumbai",
+      "rating": 4.7,
+      "contacts": "1800-114325678"
+    },
+    {
+      "name": "baludhabba",
+      "address": "mumbai",
+      "rating": "4.6",
+      "contacts": "90192834324",
+      "id": 6
+    }
+  ]
+}
